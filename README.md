@@ -12,7 +12,7 @@ In this first course, you’ll train and run machine learning models in any brow
 
 This Specialization builds upon our TensorFlow in Practice Specialization. If you are new to TensorFlow, we recommend that you take the TensorFlow in Practice Specialization first. To develop a deeper, foundational understanding of how neural networks work, we recommend that you take the Deep Learning Specialization. <br>
 
-## Device-based Models with TensorFlow Lite
+## [Device-based Models with TensorFlow Lite](https://github.com/indahpuspitaa17/TensorFlow-Data-and-Deployment/tree/main/2-Device-based-Models-with-TensorFlow-Lite)
 #### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/verify/ESD485PCURN2)*** <br>
 This second course teaches you how to run your machine learning models in mobile applications. You’ll learn how to prepare models for a lower-powered, battery-operated devices, then execute models on both Android and iOS platforms. Finally, you’ll explore how to deploy on embedded systems using TensorFlow on Raspberry Pi and microcontrollers.
 
