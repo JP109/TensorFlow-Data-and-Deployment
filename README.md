@@ -13,9 +13,11 @@ In this first course, you’ll train and run machine learning models in any brow
 This Specialization builds upon our TensorFlow in Practice Specialization. If you are new to TensorFlow, we recommend that you take the TensorFlow in Practice Specialization first. To develop a deeper, foundational understanding of how neural networks work, we recommend that you take the Deep Learning Specialization. <br>
 
 ## Device-based Models with TensorFlow Lite
+#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/verify/ESD485PCURN2)*** <br>
 This second course teaches you how to run your machine learning models in mobile applications. You’ll learn how to prepare models for a lower-powered, battery-operated devices, then execute models on both Android and iOS platforms. Finally, you’ll explore how to deploy on embedded systems using TensorFlow on Raspberry Pi and microcontrollers.
 
 ## Data Pipelines with TensorFlow Data Services
+#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/verify/ESD485PCURN2)*** <br>
 In this third course, you will:
 - Perform streamlined ETL tasks using TensorFlow Data Services
 - Load different datasets and custom feature vectors using TensorFlow Hub and TensorFlow Data Services APIs
@@ -24,4 +26,5 @@ In this third course, you will:
 - Publish your own datasets to the TensorFlow Hub library and share standardized data with researchers and developers around the world
 
 ## Advanced Deployment Scenarios with TensorFlow
+#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/verify/ESD485PCURN2)*** <br>
 In this final course, you’ll explore four different scenarios you’ll encounter when deploying models. You’ll be introduced to TensorFlow Serving, a technology that lets you do inference over the web. You’ll move on to TensorFlow Hub, a repository of models that you can use for transfer learning. Then you’ll use TensorBoard to evaluate and understand how your models work, as well as share your model metadata with others. Finally, you’ll explore federated learning and how you can retrain deployed models with user data while maintaining data privacy.
