@@ -1,4 +1,6 @@
-# TensorFlow-Data-and-Deployment
+# [TensorFlow-Data-and-Deployment](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+
+####  **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/specialization/certificate/XU53DJ6K3CDX)*** <br>
 In this four-course Specialization, you’ll learn how to get your machine learning models into the hands of real people on all kinds of devices. Start by understanding how to train and run machine learning models in browsers and in mobile applications. Learn how to leverage built-in datasets with just a few lines of code, learn about data pipelines with TensorFlow data services, use APIs to control data splitting, process all types of unstructured data, and retrain deployed models with user data while maintaining data privacy.  Apply your knowledge in various deployment scenarios and get introduced to TensorFlow Serving, TensorFlow, Hub, TensorBoard, and more. <br>
 
 Industries all around the world are adopting Artificial Intelligence. This Specialization from **Laurence Moroney** and **Andrew Ng** will help you develop and deploy machine learning models across any device or platform faster and more accurately than ever. <br>
@@ -13,11 +15,11 @@ In this first course, you’ll train and run machine learning models in any brow
 This Specialization builds upon our TensorFlow in Practice Specialization. If you are new to TensorFlow, we recommend that you take the TensorFlow in Practice Specialization first. To develop a deeper, foundational understanding of how neural networks work, we recommend that you take the Deep Learning Specialization. <br>
 
 ## [Device-based Models with TensorFlow Lite](https://github.com/indahpuspitaa17/TensorFlow-Data-and-Deployment/tree/main/2-Device-based-Models-with-TensorFlow-Lite)
-#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/verify/ESD485PCURN2)*** <br>
+#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/certificate/WGQWLYHM8JS2)*** <br>
 This second course teaches you how to run your machine learning models in mobile applications. You’ll learn how to prepare models for a lower-powered, battery-operated devices, then execute models on both Android and iOS platforms. Finally, you’ll explore how to deploy on embedded systems using TensorFlow on Raspberry Pi and microcontrollers.
 
-## Data Pipelines with TensorFlow Data Services
-#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/verify/ESD485PCURN2)*** <br>
+## [Data Pipelines with TensorFlow Data Services](https://github.com/indahpuspitaa17/TensorFlow-Data-and-Deployment/tree/main/3-Data-Pipelines-with-TensorFlow-Data-Services)
+#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/certificate/6CE3YL37AJ2Q)*** <br>
 In this third course, you will:
 - Perform streamlined ETL tasks using TensorFlow Data Services
 - Load different datasets and custom feature vectors using TensorFlow Hub and TensorFlow Data Services APIs
@@ -25,6 +27,6 @@ In this third course, you will:
 - Optimize data pipelines that become a bottleneck in the training process
 - Publish your own datasets to the TensorFlow Hub library and share standardized data with researchers and developers around the world
 
-## Advanced Deployment Scenarios with TensorFlow
-#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/verify/ESD485PCURN2)*** <br>
+## [Advanced Deployment Scenarios with TensorFlow](https://github.com/indahpuspitaa17/TensorFlow-Data-and-Deployment/tree/main/4-Advanced-Deployment-Scenarios-with-TensorFlow)
+#### **Certificate of completion is *[here](https://www.coursera.org/account/accomplishments/certificate/9U6SR3TA9PF5)*** <br>
 In this final course, you’ll explore four different scenarios you’ll encounter when deploying models. You’ll be introduced to TensorFlow Serving, a technology that lets you do inference over the web. You’ll move on to TensorFlow Hub, a repository of models that you can use for transfer learning. Then you’ll use TensorBoard to evaluate and understand how your models work, as well as share your model metadata with others. Finally, you’ll explore federated learning and how you can retrain deployed models with user data while maintaining data privacy.
